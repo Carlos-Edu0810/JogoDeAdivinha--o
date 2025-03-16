@@ -1,0 +1,14 @@
+C:\Workspace\JogoDeAdivinhação\bin\Debug\net9.0\JogoDeAdivinhação.exe
+C:\Workspace\JogoDeAdivinhação\bin\Debug\net9.0\JogoDeAdivinhação.deps.json
+C:\Workspace\JogoDeAdivinhação\bin\Debug\net9.0\JogoDeAdivinhação.runtimeconfig.json
+C:\Workspace\JogoDeAdivinhação\bin\Debug\net9.0\JogoDeAdivinhação.dll
+C:\Workspace\JogoDeAdivinhação\bin\Debug\net9.0\JogoDeAdivinhação.pdb
+C:\Workspace\JogoDeAdivinhação\obj\Debug\net9.0\JogoDeAdivinhação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\JogoDeAdivinhação\obj\Debug\net9.0\JogoDeAdivinhação.AssemblyInfoInputs.cache
+C:\Workspace\JogoDeAdivinhação\obj\Debug\net9.0\JogoDeAdivinhação.AssemblyInfo.cs
+C:\Workspace\JogoDeAdivinhação\obj\Debug\net9.0\JogoDeAdivinhação.csproj.CoreCompileInputs.cache
+C:\Workspace\JogoDeAdivinhação\obj\Debug\net9.0\JogoDeAdivinhação.dll
+C:\Workspace\JogoDeAdivinhação\obj\Debug\net9.0\refint\JogoDeAdivinhação.dll
+C:\Workspace\JogoDeAdivinhação\obj\Debug\net9.0\JogoDeAdivinhação.pdb
+C:\Workspace\JogoDeAdivinhação\obj\Debug\net9.0\JogoDeAdivinhação.genruntimeconfig.cache
+C:\Workspace\JogoDeAdivinhação\obj\Debug\net9.0\ref\JogoDeAdivinhação.dll
